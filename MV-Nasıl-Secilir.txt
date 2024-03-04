@@ -1,0 +1,3 @@
+İlin en çok oy alan partisi 1.milletvekilini çıkartır ve aldığı oy ikiye bölünür. 
+Sonra partiler en çok oy alandan en az alana tekrar sıralanır ve en çok oyu olan parti ikinci milletvekilini çıkarır
+bu döngü ilin millet vekili kontenjanı bitene kadar devam eder. 
